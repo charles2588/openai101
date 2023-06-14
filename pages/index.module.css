@@ -1,8 +1,14 @@
+.mainContainer {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
 .container {
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
 }
+
 .chat-history {
   border: 1px solid #ccc;
   padding: 10px;
@@ -10,13 +16,16 @@
   height: 300px;
   overflow-y: scroll;
 }
+
 .message {
   margin-bottom: 10px;
 }
+
 .user {
   text-align: right;
   background-color: #f0f0f0;
 }
+
 .lawyer {
   text-align: left;
   background-color: #d1f5ff;
