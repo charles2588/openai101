@@ -3,12 +3,13 @@
 Welcome to AI Lawyer where your all law related questions can be answered by our
 OpenAI powered Lawyer Chat Assistant.
 
-It should allow user to input prompt and also should show history in the chat prompt.
-It should allow user to clear the chat
-It should allow user to request transfer to an agent to talk to real agent.
-It should allow user to send chat transcript to themselves
-It should have ability to like and dislike the response.
-It should ask user to rate their chat experience when user end conversation.
+- It should allow the user to input prompt and also show history in the chat prompt.
+- It should allow the user to clear the chat.
+- It should allow the user to request transfer to an agent to talk to a real agent.
+- It should allow the user to send the chat transcript to themselves.
+- It should have the ability to like and dislike the response.
+- It should ask the user to rate their chat experience when the user ends the conversation.
+- It should also have the ability to gather analytics on chat experience to allow us to improve the experience based on likes and dislikes.
 
 It uses the [Next.js](https://nextjs.org/) framework with [React](https://reactjs.org/). Check out the tutorial or follow the instructions below to get set up.
 
